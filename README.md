@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&random=true&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=KoorunG's+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=5000&pause=10000&color=F7C732FF&random=true&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=KoorunG's+Github)](https://git.io/typing-svg)
 
 
 **Main**

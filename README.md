@@ -5,7 +5,7 @@
 
 ### Learning
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFDD00?style=flat&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=Amazon+AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFDD00?style=flat&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=Amazon+AWS&logoColor=white"/> <img src="https://img.shields.io/badge/vue-4EB883?style=flat&logo=vuedotjs&logoColor=white"/>
 
 ### Used Languages
 

@@ -10,6 +10,7 @@
 ### Learning
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=Amazon+AWS&logoColor=white"/> <img src="https://img.shields.io/badge/vue-4EB883?style=flat&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
 
 ### Used Languages
 
